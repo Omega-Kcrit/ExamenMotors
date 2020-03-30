@@ -1,0 +1,6 @@
+Crear un Terrain
+CRear 3 Triggers con funcionalidades diferentes
+IA
+REstart Game
+Ciclo da y noche
+HUD
